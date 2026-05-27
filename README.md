@@ -75,4 +75,5 @@
 
 **Как запустить:**
 ```bash
-pymol -c task10_script.py
+source ./.virtualenvs/PyCharmMiscProject/bin/activate
+python task10_script.py
