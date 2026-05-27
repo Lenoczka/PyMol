@@ -18,9 +18,9 @@
 
 **Структура репозитория:**
 
-- `task9_img1.png` — исходные цепи A и B без изменений
-- `task9_img2.png` — цепи A и B разными цветами
-- `task9_img3.png` — цепь A: surface, цепь B: licorice
+- `task9_img1.png` — исходные цепи A и B 2GJX без изменений
+- `task9_img2.png` — цепи A и B 2GJX разными цветами
+- `task9_img3.png` — цепь A: surface, цепь B: licorice 2GJX
 - `task9_img4.png` — выравнивание 2GK1 (цепь I) на 2GJX (цепь B)
 - `task10_script.py` — Python-скрипт для автоматизации
 - `README.md` — описание проекта
